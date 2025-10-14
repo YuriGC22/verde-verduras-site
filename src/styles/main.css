@@ -208,24 +208,24 @@ section {
 .hero-text {
   display: grid;
   gap: var(--spacing-sm);
-  justify-items: start;
-  text-align: left;
-  max-width: 560px;
+  justify-items: center;
+  text-align: center;
+  max-width: 620px;
+  margin: 0 auto;
 }
 
 .hero-text h1 {
   font-family: var(--font-heading);
-  font-size: clamp(2.2rem, 3vw + 1rem, 3.2rem);
-  line-height: 1.18;
+  font-size: clamp(2.15rem, 3.2vw + 0.9rem, 3rem);
+  line-height: 1.2;
   margin-bottom: var(--spacing-md);
 }
 
 .hero .lead {
-  font-size: 1.04rem;
-  line-height: 1.6;
+  font-size: 1.05rem;
   color: var(--color-neutral-700);
   margin-bottom: var(--spacing-lg);
-  max-width: 560px;
+  max-width: 600px;
 }
 
 .hero .eyebrow {
@@ -240,58 +240,31 @@ section {
 
 .hero-cta {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: var(--spacing-sm);
-  margin-top: var(--spacing-md);
-  justify-content: flex-start;
+  margin-bottom: var(--spacing-lg);
+  justify-content: center;
 }
 
-.hero-cta .btn {
-  min-width: 180px;
-  white-space: nowrap;
+.hero-bullets {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-lg);
+  color: var(--color-neutral-700);
+  font-size: 0.96rem;
+  align-items: center;
   text-align: center;
 }
 
-.hero-benefits {
-  display: flex;
-  flex-direction: column;
-  gap: var(--spacing-xs);
-  margin-bottom: var(--spacing-lg);
-  color: var(--color-neutral-700);
-  font-size: 0.95rem;
-  line-height: 1.55;
-  max-width: 520px;
-}
-
-.hero-benefits li {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  gap: var(--spacing-xs);
-  align-items: start;
-  padding: var(--spacing-xs) var(--spacing-sm);
-  border-radius: var(--radius-md);
-  background: rgba(46, 107, 58, 0.05);
-}
-
-.hero-benefits li::before {
-  content: "";
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  margin-top: 8px;
-  background: var(--color-primary-500);
-  box-shadow: 0 0 0 3px rgba(46, 107, 58, 0.18);
-}
-
-.hero-benefits__title {
-  font-weight: 600;
+.hero-bullets li strong {
   color: var(--color-primary-500);
-  min-width: 150px;
+  font-weight: 600;
 }
 
-.hero-benefits__text {
-  margin: 0;
-  color: var(--color-neutral-700);
+.hero-cta .btn {
+  white-space: nowrap;
+  text-align: center;
 }
 
 .hero-image {
@@ -743,26 +716,9 @@ section {
     margin-bottom: var(--spacing-md);
   }
 
-  .hero-benefits {
+  .hero-bullets {
     max-width: min(92vw, 540px);
     margin: 0 auto var(--spacing-lg);
-  }
-
-  .hero-benefits li {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    gap: var(--spacing-xs);
-  }
-
-  .hero-benefits__title {
-    min-width: 0;
-    width: 100%;
-  }
-
-  .hero-benefits__text {
-    margin: 0;
   }
 
   .hero-cta {

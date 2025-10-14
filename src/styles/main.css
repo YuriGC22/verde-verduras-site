@@ -210,22 +210,23 @@ section {
   gap: var(--spacing-sm);
   justify-items: center;
   text-align: center;
-  max-width: 620px;
+  max-width: 540px;
   margin: 0 auto;
 }
 
 .hero-text h1 {
   font-family: var(--font-heading);
-  font-size: clamp(1.85rem, 2.4vw + 1rem, 2.6rem);
-  line-height: 1.18;
+  font-size: clamp(1.7rem, 2vw + 1rem, 2.35rem);
+  line-height: 1.24;
   margin-bottom: var(--spacing-md);
 }
 
 .hero .lead {
-  font-size: 0.98rem;
+  font-size: 0.94rem;
+  line-height: 1.55;
   color: var(--color-neutral-700);
   margin-bottom: var(--spacing-lg);
-  max-width: 600px;
+  max-width: 520px;
 }
 
 .hero .eyebrow {
@@ -252,9 +253,11 @@ section {
   gap: var(--spacing-sm);
   margin-bottom: var(--spacing-lg);
   color: var(--color-neutral-700);
-  font-size: 0.9rem;
+  font-size: 0.88rem;
+  line-height: 1.55;
   align-items: center;
   text-align: center;
+  max-width: 520px;
 }
 
 .hero-bullets li strong {

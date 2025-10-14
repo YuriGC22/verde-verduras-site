@@ -1,0 +1,21 @@
+Objetivo: Landing de alta conversão para Verde Verduras; duas CTAs ativas (WhatsApp e Catálogo). Sem A/B por enquanto.
+Referências de CRO: aplicar boas práticas (CTA específico; hero com benefício; múltiplos pontos de CTA — header fixo, hero, mid-page, rodapé; prova/trust; mobile-first; leve).
+Identidade: usar a paleta/tipografia já definidas no nosso guia (verde premium, creme, Montserrat/Inter).
+CTAs (links prontos):
+• WhatsApp: https://wa.me/5562982594500?text=Ol%C3%A1%21%20Quero%20fazer%20um%20pedido%20pelo%20site%20da%20Verde%20Verduras.%20Voc%C3%AAs%20entregam%20no%20meu%20bairro%3F
+• Catálogo: https://wa.me/c/556282594500
+Arquitetura/entregáveis (sem escrever código):
+
+Sitemap enxuto e wireframe textual das seções (Header com CTA; Hero; Destaques; Benefícios; Prova/Trust; FAQ; Rodapé).
+
+Lista de assets + formatos (Hero 21:9 desktop e variação mobile; cards 1:1/4:5).
+
+Guia sucinto de estilos (tokens: cores HEX, tipografia, raios de borda, sombras, espaçamentos).
+
+Setup de versionamento no GitHub (estrutura de pastas, nome do repo, branches de trabalho) e deploy no Vercel integrado ao Git (builds por push, preview por PR, domínio custom quando houver).
+
+Plano de mensuração (eventos de clique click_whatsapp e click_catalog; onde aplicar no layout).
+Saída esperada agora: apenas documentação prescritiva e checklist de implementação. Sem HTML/CSS/JS.
+QUERO TUDO ADAPTADO PARA USAR LIVE SERVER COMO FERRAMENTA DE VALIDAÇÃO
+
+GITHUB REPOSITÓRIO: https://github.com/YuriGC22/verde-verduras-site

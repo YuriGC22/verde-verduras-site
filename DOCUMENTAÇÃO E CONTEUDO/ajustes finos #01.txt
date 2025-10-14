@@ -1,0 +1,50 @@
+1. ALTERAR A RESOLUÇÃO DA PRIMEIRA IMAGEM/LOGOMARCA PARA CIRCULAR E PREENCHA COM A NOSSA IMAGEM PNG DA LOGO
+
+2. Alterar a primeira linha de texto/título para "Hortifruti pronto, leve e inteligente" Aumente a fonte e centralize o texto
+
+3. Altere o titulo do primeiro paragrafo para "Hortifruti higienizados, processados e entregues prontos para o seu dia a dia."
+
+4. Altere o texto do primeiro paragrafo para "Produzimos sob encomenda e entregamos às segundas, quartas e sextas. Faça o seu pedido pelo catálogo do Whatsapp e receba tudo pronto para consumir ou armazenar.
+
+5. Altere os 3 pontos de texto no primeiro paragráfo para 
+."Economize tempo: Sem perder tempo com lavagem e descascando e cortando folhagens, frutas e verduras"
+.Processos são feitos no mesmo dia: A seleção, higienização, descasque e corte feitos no mesmo dia da entrega"
+. Embalagem segura: A sua hortifruti vem embalada da melhor forma possível conforme o hortifruti, garantindo mais qualidade por mais tempo.
+
+6. Altere o texto da faixa de texto apos os primeiros CTAS para "Recebemos pedidos feitos pelo catálogo do Whatsapp todos os dias"
+
+7. Altere o título do segundo parágrafo para "Conheça todos os produtos Verde Verduras"
+
+8. Altere do texto do título do primeiro card de imagem para "Seleção de Verduras" e o texto do primeiro card para "Verduras com diferentes cortes e tamanhos para atender cada necessidade.
+
+Combinações incríveis para excitar o seu paladar e descobrir novos favoritos
+
+Produtos entregues embalados à vácuo pronto para consumo ou armazenamento no congelador"
+
+9. Altere o texto do título do segundo card de imagem para "Seleção de Frutas" e o texto do segundo card para "Frutas selecionadas no ponto certo para adoçar o seu dia.
+
+Kits infantis feitos com carinho para atender todos os públicos!
+
+Produtos entregues em um pote de 500ml pronto para consumo e armazenamento no refrigerador"
+
+10. Altere o texto do título do terceiro card de imagem para "Seleção de Folhagens" e o texto do terceiro card para "Folhas selecionadas com segurança e cortadas para garantir praticidade.
+
+Mix de folhagens para atender à preferência de cada gosto.
+
+Produtos entregues em um pote de 500ml pronto para consumo ou armazenamento no refrigerador"
+
+11. Altere o texto do título do terceiro paragrafo para " Transparência no processamento da sua encomenda com a Verde Verduras"
+
+12.Altere o texto do primeiro card para "O seu hortifruti é selecionado, processado e embalado no dia da entrega. Garantindo a textura e cor ideais"
+
+13. Altere o texto do título do segundo card para "Higienização aprovado pela ANVISA" e altere o texto do segundo card para "O processo de seleção e higienização é feito em um ambiente profissional destinado a isso e é utilizado o hipoclorito de sódio como agente de sanitização de todo o hortifruti conforme regulamentação atual" 
+
+14. Altere o texto do título do primeiro card do quarto parágrafo para "Você envia o seu pedido pelo catálogo"
+e altere o texto do primeiro card para "Monte o seu pedido pelo catálogo do whatsapp e envie a qualquer momento"
+
+15. Altere o texto do título do segundo card para "Confirmação do pedido" local de entrega e forma de pagamento" e altere o texto do segundo card para "O seu pedido será confirmado após detalhamento do local de entrega e forma de pagamento"
+
+16. Altere o texto do título do terceiro card para "Embalamos com cuidado" e o texto do card para "O seu hortifruti viaja com segurança embalados a vácuo e em potes, facilitando o armazenamento."
+
+17. Altere o texto do título do quarto card para " Entregas as Segundas, Quartas e Sextas" e o texto para "Exceto pedidos confirmados até as 09h da manhã nos dias de entrega, as encomendas não são entregues no mesmo dia!"
+

@@ -1,6 +1,6 @@
 # Verde Verduras — Landing Page
 
-Landing page estática para pedidos sob encomenda da Verde Verduras. A comunicação destaca produção no dia, entregas às segundas, quartas e sextas e atendimento via WhatsApp.
+Landing page estática para pedidos sob encomenda da Verde Verduras. A comunicação destaca produção no dia, entregas às segundas e sextas e atendimento via WhatsApp.
 
 ## Estrutura do projeto
 

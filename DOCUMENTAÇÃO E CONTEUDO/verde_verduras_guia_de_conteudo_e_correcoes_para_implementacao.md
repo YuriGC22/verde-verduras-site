@@ -7,7 +7,7 @@
 
 **Fluxo operacional (para comunicação):**
 1. Pedidos pelo WhatsApp ao longo da semana.  
-2. **Dias de entrega:** **segunda, quarta e sexta**.  
+2. **Dias de entrega:** **segunda e sexta**.  
 3. **Manhã do dia de entrega:** seleção e processamento (higienização, corte, embalagem).  
 4. **Tarde:** **entrega**.
 
@@ -20,7 +20,7 @@
    Remover qualquer menção a assinatura, clubes, planos recorrentes. Excluir seções/FAQs e CTAs relacionados.
 3. **Atendimento & entregas:**  
    - **Atendemos pelo WhatsApp de domingo a domingo.**  
-   - **Entregas apenas seg/qua/sex.**  
+   - **Entregas apenas seg/sex.**  
    - **Não temos pronta entrega; pedidos são produzidos sob demanda.**
 4. **CTAs devem abrir em nova guia/aba:**  
    Aplicar em **todos os botões/links**: `target="_blank" rel="noopener noreferrer"`.
@@ -48,7 +48,7 @@
 
 ### Hero (acima da dobra)
 - **Título:** “Verduras e legumes **higienizados e prontos** para o seu dia a dia.”
-- **Subtítulo:** “Produzimos sob demanda e entregamos **às segundas, quartas e sextas**. **Peça pelo WhatsApp** e receba pronto para consumir ou congelar.”
+- **Subtítulo:** “Produzimos sob demanda e entregamos **às segundas e sextas**. **Peça pelo WhatsApp** e receba pronto para consumir ou congelar.”
 - **Bullets (3):**  
   • Economize tempo: sem descascar, sem higienizar.  
   • Selecionado e processado **no dia da entrega**.  
@@ -69,14 +69,14 @@
 1. **Você faz o pedido** pelo WhatsApp (todos os dias).  
 2. **Selecionamos e processamos** na manhã do dia de entrega.  
 3. **Embalamos** (a vácuo ou pote).  
-4. **Entregamos** à tarde nas **segundas, quartas e sextas**.
+4. **Entregamos** à tarde nas **segundas e sextas**.
 
 ### Prova social
 - Depoimentos reais curtos (1–2 linhas), fotos reais, selos simples.
 
 ### FAQ (substituir/ajustar)
 - **Vocês têm pronta entrega?** Não. **Produzimos sob demanda** para garantir frescor e qualidade.  
-- **Quais são os dias de entrega?** **Segunda, quarta e sexta.** Pedidos entram na rota do próximo dia de entrega.  
+- **Quais são os dias de entrega?** **Segunda e sexta.** Pedidos entram na rota do próximo dia de entrega.  
 - **Como faço o pedido?** Pelo **WhatsApp** (atendimento **domingo a domingo**).  
 - **Os produtos chegam prontos?** Sim, **higienizados e embalados** (a vácuo ou em pote), prontos para consumir ou congelar.
 
@@ -106,7 +106,7 @@
 
 ## 7) Checklist de entrega para o desenvolvedor
 - [ ] Remover toda referência a **assinatura** (seções, FAQs, CTAs).  
-- [ ] Atualizar **atendimento** (WhatsApp **dom–dom**) e **entregas seg/qua/sex**.  
+- [ ] Atualizar **atendimento** (WhatsApp **dom–dom**) e **entregas seg/sex**.  
 - [ ] Deixar claro: **sem pronta entrega**; **sob demanda**.  
 - [ ] Corrigir **endereço** no rodapé/contato.  
 - [ ] Aplicar `target="_blank" rel="noopener noreferrer"` nos **CTAs** de WhatsApp e Catálogo.  
@@ -114,4 +114,3 @@
 - [ ] Criar pasta **`./imagens/`** na raiz e apontar todas as imagens para ela.  
 - [ ] Revisar headings e microcopy conforme as seções acima.  
 - [ ] Validar que os links de conversão estão **exatamente** como fornecidos.
-

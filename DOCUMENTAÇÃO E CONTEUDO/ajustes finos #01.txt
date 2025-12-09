@@ -4,7 +4,7 @@
 
 3. Altere o titulo do primeiro paragrafo para "Hortifruti higienizados, processados e entregues prontos para o seu dia a dia."
 
-4. Altere o texto do primeiro paragrafo para "Produzimos sob encomenda e entregamos às segundas, quartas e sextas. Faça o seu pedido pelo catálogo do Whatsapp e receba tudo pronto para consumir ou armazenar.
+4. Altere o texto do primeiro paragrafo para "Produzimos sob encomenda e entregamos às segundas e sextas. Faça o seu pedido pelo catálogo do Whatsapp e receba tudo pronto para consumir ou armazenar.
 
 5. Altere os 3 pontos de texto no primeiro paragráfo para 
 ."Economize tempo: Sem perder tempo com lavagem e descascando e cortando folhagens, frutas e verduras"
@@ -46,5 +46,5 @@ e altere o texto do primeiro card para "Monte o seu pedido pelo catálogo do wha
 
 16. Altere o texto do título do terceiro card para "Embalamos com cuidado" e o texto do card para "O seu hortifruti viaja com segurança embalados a vácuo e em potes, facilitando o armazenamento."
 
-17. Altere o texto do título do quarto card para " Entregas as Segundas, Quartas e Sextas" e o texto para "Exceto pedidos confirmados até as 09h da manhã nos dias de entrega, as encomendas não são entregues no mesmo dia!"
+17. Altere o texto do título do quarto card para " Entregas as Segundas e Sextas" e o texto para "Exceto pedidos confirmados até as 09h da manhã nos dias de entrega, as encomendas não são entregues no mesmo dia!"
 
